@@ -1,4 +1,4 @@
-# superRad
+# Super Rad
 
 # Live @
 
